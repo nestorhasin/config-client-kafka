@@ -1,3 +1,6 @@
+server.port: 8080
+spring.application.name: config-client
+
 foo: foo-default
 bar: bar-default
 baz: baz-default
