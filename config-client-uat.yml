@@ -1,7 +1,3 @@
-server.port: 8080
-spring.application.name: config-client
-spring.profiles.active: uat
-
 foo: foo-uat
 bar: bar-uat
 baz: baz-uat

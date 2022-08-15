@@ -1,7 +1,3 @@
-server.port: 8080
-spring.application.name: config-client
-spring.profiles.active: prod
-
 foo: foo-prod
 bar: bar-prod
 baz: baz-prod
