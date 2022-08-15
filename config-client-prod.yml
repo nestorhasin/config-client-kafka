@@ -1,0 +1,4 @@
+foo: foo-prod
+bar: bar-prod
+baz: baz-prod
+url: http://prod.com
